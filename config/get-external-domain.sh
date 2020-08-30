@@ -18,4 +18,4 @@
 # discover addresses of external monitoring tools, eg. cacti.yourdomain.
 
 
-echo "tomaszklim.pl"
+echo "boomerai.com"
