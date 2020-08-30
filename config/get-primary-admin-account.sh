@@ -4,4 +4,4 @@
 # (the one used for sudo commands, if you have many).
 
 
-echo "tomek"
+echo "vadim"
