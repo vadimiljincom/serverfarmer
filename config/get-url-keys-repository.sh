@@ -11,4 +11,4 @@
 # archive prepared for each server (or server group, security domain etc.).
 
 
-echo "https://github.com/serverfarmer/sf-keys"
+echo "https://github.com/vadimiljincom/sf-keys"
